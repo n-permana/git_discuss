@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'mibs_2014',
+			'database'  => 'sis',
 			'username'  => 'root',
 			'password'  => '',
 			'charset'   => 'utf8',
